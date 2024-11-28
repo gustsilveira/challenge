@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "IPS0udABXDOzm2ctqg0bEBVEwLM0hxPSuDqd2IZD4no=",
+  "Source": "challenge",
+  "BasePath": "_content/challenge",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

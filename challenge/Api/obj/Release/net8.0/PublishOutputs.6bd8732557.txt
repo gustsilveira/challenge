@@ -1,0 +1,11 @@
+C:\Users\Gustavo\source\repos\challenge\challenge\bin\Release\net8.0\publish\challenge.exe
+C:\Users\Gustavo\source\repos\challenge\challenge\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Gustavo\source\repos\challenge\challenge\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Gustavo\source\repos\challenge\challenge\bin\Release\net8.0\publish\challenge.dll
+C:\Users\Gustavo\source\repos\challenge\challenge\bin\Release\net8.0\publish\challenge.deps.json
+C:\Users\Gustavo\source\repos\challenge\challenge\bin\Release\net8.0\publish\challenge.runtimeconfig.json
+C:\Users\Gustavo\source\repos\challenge\challenge\bin\Release\net8.0\publish\challenge.pdb
+C:\Users\Gustavo\source\repos\challenge\challenge\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\Gustavo\source\repos\challenge\challenge\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gustavo\source\repos\challenge\challenge\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gustavo\source\repos\challenge\challenge\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
